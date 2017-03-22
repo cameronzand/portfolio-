@@ -11,3 +11,5 @@ angular
 	.controller('HomeController', HomeController)
 
 	.config(routerConfig)
+
+	
