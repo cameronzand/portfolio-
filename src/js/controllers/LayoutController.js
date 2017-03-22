@@ -1,0 +1,7 @@
+function LayoutController () {
+
+
+};
+
+export { LayoutController };
+
