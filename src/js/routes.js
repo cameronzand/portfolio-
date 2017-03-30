@@ -10,8 +10,11 @@ function routerConfig ($stateProvider, $urlRouterProvider) {
 			url: '/',
 			templateUrl: 'templates/home.tpl.html',
 			controller: 'HomeController as home'
+		})
+		.state('root.about',{
+			url: '/about',
+			templateUrl: 'templates/about.tpl.html'
 		});
-		
 
 	$urlRouterProvider.otherwise('/');
 

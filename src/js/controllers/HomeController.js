@@ -1,5 +1,8 @@
 function HomeController () {
 
+	
+		console.log('Home Controller Is Live');
+
 
 };
 
