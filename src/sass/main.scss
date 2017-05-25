@@ -80,5 +80,24 @@ button:hover {
   background: #CF4647;
 }
 
+ul {
+	list-style-type: disc;
+}
+.skills {
+	overflow: hidden;
+}
+.bullets1 {
+	font-weight: bold;
+	margin-left: 500px;
+	margin-top: 20px;
+	width: 200px;
+	float: left;
+}
 
-
+.bullets2 {
+	font-weight: bold;
+	margin-left: 800px;
+	margin-top: 20px;
+	width: 250px;
+	//overflow: hidden;
+}
