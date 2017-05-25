@@ -85,6 +85,7 @@ ul {
 }
 .skills {
 	overflow: hidden;
+	background-color: #F5F5F5;
 }
 .bullets1 {
 	font-weight: bold;
@@ -101,3 +102,20 @@ ul {
 	//width: 250px;
 	//overflow: hidden;
 }
+
+.aboutsection{
+	overflow: hidden;
+	//float: left;
+	display: inline-block;
+	width: 500px;
+	height: 250px;
+	margin-top: 20px;
+
+}
+.cameron {
+  border: 5px solid #3e2b14;
+  padding: 10px;
+  margin-left: 250px;
+}
+
+
