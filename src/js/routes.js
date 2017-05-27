@@ -14,6 +14,11 @@ function routerConfig ($stateProvider, $urlRouterProvider) {
 		.state('root.about',{
 			url: '/about',
 			templateUrl: 'templates/about.tpl.html'
+		})
+		.state('root', {
+			url: '/portfolio',
+			templateUrl: 'templates/portfolio.tpl.html',
+			
 		});
 
 	$urlRouterProvider.otherwise('/');
