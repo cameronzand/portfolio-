@@ -15,9 +15,9 @@ function routerConfig ($stateProvider, $urlRouterProvider) {
 			url: '/about',
 			templateUrl: 'templates/about.tpl.html'
 		})
-		.state('root', {
+		.state('root.portfolio',{
 			url: '/portfolio',
-			templateUrl: 'templates/portfolio.tpl.html',
+			templateUrl: 'templates/portfolio.tpl.html'
 			
 		});
 
