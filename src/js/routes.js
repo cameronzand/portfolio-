@@ -24,6 +24,7 @@ function routerConfig ($stateProvider, $urlRouterProvider) {
 	$urlRouterProvider.otherwise('/');
 
 
+
 }
 
 routerConfig.$inject = ['$stateProvider', '$urlRouterProvider'];
