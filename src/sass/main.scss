@@ -5,6 +5,14 @@ body {
     padding: 0;
 }
 
+a {
+	color: #08C5F3;
+}
+
+a:hover {
+	text-transform: uppercase;
+}
+
 .container {
 	margin: 0;
 	padding: 0;
@@ -34,6 +42,18 @@ body {
 	float: right;
 	padding: 30px;
 	color: white;
+	//font-size: 25px;
+}
+
+.marginright {
+	margin-right: 60px;
+}
+
+.navcontact {
+	float: left;
+	color: white;
+	padding: 30px;
+	font-size: 200px;
 }
 
 .home {
