@@ -3,8 +3,9 @@ function HomeController () {
 	
 		console.log('Home Controller Is Live');
 
-
-
+	$(".nav-disappear").autoHidingNavbar({
+  // see next for specifications
+	});
     
  
     // $("#typing").ghosttyper({
