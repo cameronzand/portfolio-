@@ -4,7 +4,7 @@ function HomeController () {
 		console.log('Home Controller Is Live');
 
 	$(".nav-disappear").autoHidingNavbar({
-  // see next for specifications
+
 	});
     
  
@@ -62,14 +62,7 @@ $('#example4').typeIt({
 .tiPause(1700)
 .tiDelete(5)
 .tiType('excellent.')
-// .tiBreak() .tiPause(750)
-// .tiType(' but I don\'t really know what to say')
-// .tiSettings({speed: 700})
-// .tiType('...')
-// .tiPause(750)
-// .tiSettings({speed: 50})
-// .tiDelete()
-// .tiType('IS THAT SO <strong>WRONG??</strong>');
+
 
 
 
